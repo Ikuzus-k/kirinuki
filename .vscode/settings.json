@@ -11,6 +11,7 @@
     "python.formatting.autopep8Args": [
         "--aggressive",
         "--aggressive",
+        "--max-line-length\", \"120\""
     ],
     "autoDocstring.docstringFormat": "google",
 }

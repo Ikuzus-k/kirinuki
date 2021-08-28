@@ -1,0 +1,31 @@
+[
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCihEgB25_MpWLJS6HZzki3w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AKedOLSl_tL2PFtgjw1L2tDelK9iT94SMK3HRipCtnb72g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AKedOLSl_tL2PFtgjw1L2tDelK9iT94SMK3HRipCtnb72g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AKedOLSl_tL2PFtgjw1L2tDelK9iT94SMK3HRipCtnb72g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "\u560e\u5504\u30ac\u30fc\u30d9\u30a4"
+        },
+        "message": "\u02ca\u02c7\u02cb",
+        "message_id": "CjkKGkNNdkY2WTNrMGZJQ0ZVSUdyUVlkcVpzSXlnEhtDSWFndElYazBmSUNGZElSV0FvZElQTUtIdzA%3D",
+        "message_type": "text_message",
+        "timestamp": 1630087220454131
+    }
+]
