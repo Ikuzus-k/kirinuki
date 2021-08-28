@@ -1,6 +1,9 @@
 {
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
     "python.linting.lintOnSave": true,
     "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": [
         "--ignore=W293, W504",
@@ -9,9 +12,7 @@
     ],
     "python.formatting.provider": "autopep8",
     "python.formatting.autopep8Args": [
-        "--aggressive",
-        "--aggressive",
-        "--max-line-length\", \"120\""
+        "--aggressive", "--aggressive",
     ],
     "autoDocstring.docstringFormat": "google",
 }
